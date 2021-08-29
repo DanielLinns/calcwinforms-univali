@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\bin\Debug\calculadoraaula.exe.config
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\bin\Debug\calculadoraaula.exe
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\bin\Debug\calculadoraaula.pdb
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\obj\Debug\calculadoraaula.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\obj\Debug\calculadoraaula.Form1.resources
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\obj\Debug\calculadoraaula.Properties.Resources.resources
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\obj\Debug\calculadoraaula.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\obj\Debug\calculadoraaula.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\obj\Debug\calculadoraaula.exe
+C:\Users\Daniel\source\repos\calculadoraaula\calculadoraaula\obj\Debug\calculadoraaula.pdb
